@@ -1,0 +1,34 @@
+{
+  "itens": [
+    {
+      "id": 1,
+      "nome": "Aula de Yoga ao Ar Livre",
+      "descricao": "Aula relaxante de yoga no parque, aberta a todos os associados.",
+      "imagem": "https://images.unsplash.com/photo-1552058544-f2b08422138a?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 2,
+      "nome": "Festival Gastronômico",
+      "descricao": "Evento com diversas barracas de comidas típicas e música ao vivo.",
+      "imagem": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 3,
+      "nome": "Oficina de Pintura",
+      "descricao": "Aprenda técnicas de pintura com artistas locais em ambiente descontraído.",
+      "imagem": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 4,
+      "nome": "Torneio de Futebol Amador",
+      "descricao": "Participe do campeonato de futebol com times formados pelos associados.",
+      "imagem": "https://images.unsplash.com/photo-1508780709619-79562169bc64?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 5,
+      "nome": "Cinema ao Ar Livre",
+      "descricao": "Sessão de filmes clássicos sob as estrelas para toda família.",
+      "imagem": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?auto=format&fit=crop&w=600&q=80"
+    }
+  ]
+}
